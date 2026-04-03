@@ -10,6 +10,8 @@ RESTAURANTE - TEXTO LLAMADA
 
 - Es algo puntual sobre reservas del restaurante , pero si no es molestia prefiero comentárselo directamente así no genero mareo.
 
+- Si no, a que hora puedo encontrarlo ? 
+
 
 2. APERTURA (Encargado) - ( Acordarse SONAR CONFUSO )
 
@@ -29,7 +31,7 @@ RESTAURANTE - TEXTO LLAMADA
 
 - No estoy seguro si esto es algo que ya tienen resuelto…
 
-- pero hoy en día, en algunos restaurantes suele pasar que el proceso de reservas queda un poco disperso para el cliente… con esto me refiero, entre Instagram, WhatsApp o otros canales.
+- pero hoy en día, en algunos restaurantes suele suceder que el proceso de reservas queda un poco disperso para el cliente… con esto me refiero, entre Instagram, WhatsApp o otros canales.
 
 - ¿ No se cómo ustedes estarían manejando eso hoy ?
 
@@ -51,7 +53,7 @@ CONTINUACIÓN
 
 - Tiene sentido.
 
-- Lo que estuvimos viendo es que en muchos casos, con pequeños ajustes en cómo se organiza eso… se pueden recuperar reservas que antes se perdían sin darse cuenta.
+- Lo que mi equipo estuvo viendo es que en muchos casos, con pequeños ajustes en cómo se organiza eso… se pueden recuperar reservas que antes se perdían sin darse cuenta.
 
 - Nosotros trabajamos y analizamos justamente eso… la experiencia del cliente
 
@@ -59,7 +61,7 @@ CONTINUACIÓN
 
 - Ese recorrido termina haciendo que el cliente que buscaba reservar, terminé reservando y recorriendo la pagina, logrando que no solo sea tener una web para reserva, sino cómo el proceso que vive el cliente para llegar a la misma.
 
-- Repito, no sé si esto es algo que ya lo tienen optimizado, si nunca lo analizaron a profundidad o si es algo que tendría sentido o no para usted… pero si es que tiene, avísame y con gusto me agendo un día y hora para presentarte la pagina
+- Repito, no sé si esto es algo que ya lo tienen optimizado, si nunca lo analizaron a profundidad o si es algo que tendría sentido o no para usted… pero si es que tiene, avísame y con gusto agendamos un dia y horas para presentarte la propuesta mas cómodamente
 
 
 
