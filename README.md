@@ -1,1 +1,74 @@
-# clientes
+RESTAURANTE - TEXTO LLAMADA 
+
+1. FILTRO (Empleada)
+
+- “Hola, buenas tardes ¿ Qué tal ?, ¿ Con quien hablo ?
+*.........*
+
+- Un gusto ( el nombre ), mi nombre es ( Stefano o Francisco )
+
+- Te molesto un segundo, ¿sabés si está el encargado o el dueño? Sería por una propuesta puntual para el restaurante.”
+*.........*
+
+- Es algo puntual sobre reservas del restaurante , pero si no es molestia prefiero comentárselo directamente así no genero mareo.
+
+- Si no, a que hora puedo encontrarlo ? 
+*.........*
+
+
+2. APERTURA (Encargado) - ( Acordarse SONAR CONFUSO )
+
+- “Hola, buenas tardes ¿ Qué tal ?, ¿ Con quien hablo ?
+
+- Un gusto ( el nombre ), mi nombre es ( Stefano o Francisco )
+
+- ¿ Será que me podrás ayudar con algo ?
+*.........*
+- Te agradezco, en realidad no estoy muy seguro si estoy hablando con la persona correcta, pero llamé para ver quien es el responsable en su empresa de analizar las posibles brechas ocultas en su sistema de reservas que podrían estar causando una posible perdida de clientes, ¿ con quien debería comunicarme ?
+*.........*
+
+---> Si dice “Sí, soy yo. ¿De qué se trata?”
+
+- Perfecto.
+
+- **Te comento brevemente… estuve viendo su restaurante y hubo un aspecto que me llamó la atención**
+
+- No estoy seguro si esto es algo que ya tienen resuelto…
+
+- pero hoy en día, en algunos restaurantes suele suceder que el proceso de reservas queda un poco disperso para el cliente… con esto me refiero, entre Instagram, WhatsApp o otros canales.
+
+- ¿ No se cómo ustedes estarían manejando eso hoy ?
+*.........*
+
+- Claro…
+
+---> Si dice algo básico (ej: “Instagram y vía WhatsApp”)
+
+- Comprendo…
+
+- ¿y sentís que están aprovechando todas las reservas que reciben o consideras que algunas se pueden llegar a perder?
+*.........*
+
+---> Si dice “está todo bien”
+
+- Entiendo…
+
+*.........*
+
+CONTINUACIÓN 
+
+- Tiene sentido.
+
+- Lo que mi equipo estuvo viendo es que en muchos casos, con pequeños ajustes en cómo se organiza eso… se pueden recuperar reservas que antes se perdían sin darse cuenta.
+
+- Nosotros trabajamos y analizamos justamente eso… la experiencia del cliente
+
+- Desde la primera impresión, cómo están presentados los colores, las imágenes o el menú, hasta qué tan claro y directo es el proceso para reservar.
+
+- Ese recorrido termina haciendo que el cliente que buscaba reservar, terminé reservando y recorriendo la pagina, logrando que no solo sea tener una web para reserva, sino cómo el proceso que vive el cliente para llegar a la misma.
+
+- Repito, no sé si esto es algo que ya lo tienen optimizado, si nunca lo analizaron a profundidad o si es algo que tendría sentido o no para usted… pero si es que tiene, avísame y con gusto agendamos un dia y horas para presentarte la propuesta mas cómodamente
+
+
+
+
